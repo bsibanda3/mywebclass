@@ -14,6 +14,7 @@ instructions below. The first feature(s) that you and your partner(s) will make 
 [here](readme.md). You will have 2 pull requests on your own repo and your partner(s) will have 2 pull requests on
 theirs. The end result is that each partner should have the experience of the team leader and a team member.
 
+Group Members: Brandon Sibanda, Chun Lo
 ## Steps
 
 ### 1. [FIRST WATCH THIS VIDEO](https://youtu.be/uNHNLale9A0)
