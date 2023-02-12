@@ -24,7 +24,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 1. Partner 1: Chun Lo[chunlohk](https://github.com/chunlohk) <-change to you or your partner
 2. Partner 2: Brandon Sibanda [bsibanda3](https://github.com/bsibanda3) <-change to you or your partner
-3. Partner 3: Optional
+3. Partner 3: None
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
